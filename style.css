@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    display:flex;
+    justify-content: center;
+}
+label{
+    align-items: center;
+    margin-left: 40%;
+}
+#calculate{
+    margin-top:1rem;
+    margin-left:50%;
+    background-color: lightgreen;
+    border:0;
+    font-size:1.1rem;
+    border-radius: 1rem;
+    color:black;
+
+}
+#calculate:hover{
+    background-color: gold;
+    cursor:pointer;
+    color:black
+}
